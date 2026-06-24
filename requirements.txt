@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+plotly
+streamlit
+scikit-learn
+yfinance
+textblob
+nltk
+requests
+joblib
