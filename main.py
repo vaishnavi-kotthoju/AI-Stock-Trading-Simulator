@@ -1,0 +1,8 @@
+# main.py
+# Run this file to start the dashboard
+
+import subprocess
+import sys
+
+if __name__ == "__main__":
+    subprocess.run([sys.executable, "-m", "streamlit", "run", "dashboard/app.py"])
